@@ -1,1 +1,1 @@
-This repository is created for DevOps Lab Exercise 1.
+Modified the content in Updated_ReadMe branch
