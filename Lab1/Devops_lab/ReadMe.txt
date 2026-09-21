@@ -5,5 +5,3 @@ Content added in Updated_ReadMe branch
 
 Ex2_Lab1
 This line was added from the feature branch.
-
-
