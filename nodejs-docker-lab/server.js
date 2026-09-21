@@ -5,7 +5,8 @@ const PORT = 3000;
 
 app.get("/status", (req, res) => {
     res.json({
-        status: "Node.js API deployed through Jenkins"
+        status: "Node.js API is running",
+        version: "v1"
     });
 });
 
