@@ -6,7 +6,7 @@ const PORT = 3000;
 app.get("/status", (req, res) => {
     res.json({
         status: "Node.js API is running",
-        version: "v1"
+        version: "v2"
     });
 });
 
